@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+cd US-DL-Validator-Generator<!DOCTYPE html>
+<html lang="en">ls -la
+./gradlew run
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
